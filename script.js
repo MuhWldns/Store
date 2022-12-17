@@ -21,7 +21,7 @@ $.ajax({
                                     <li class="list-group-item"><strong>Harga:</strong> $${p.price}</li>
                                     <li class="list-group-item"><strong>Kategori:</strong> ${p.category}</li>
                                 </ul>
-                                <a class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
+                                <a class="btn btn-primary mt-3" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@ $('.btn-jewelry').on('click', function () {
                                     <li class="list-group-item"><strong>Harga:</strong> $${data.price}</li>
                                     <li class="list-group-item"><strong>Kategori:</strong> ${data.category}</li>
                                 </ul>
-                                <a class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
+                                <a class="btn btn-primary mt-3 " href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ $('.btn-mens-cloth').on('click', function () {
                                     <li class="list-group-item"><strong>Harga:</strong> $${data.price}</li>
                                     <li class="list-group-item"><strong>Kategori:</strong> ${data.category}</li>
                                 </ul>
-                                <a class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
+                                <a class="btn btn-primary mt-3" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
                             </div>
                         </div>
                     </div>
@@ -147,7 +147,7 @@ $('.btn-women-cloth').on('click', function () {
                                     <li class="list-group-item"><strong>Harga:</strong> $${data.price}</li>
                                     <li class="list-group-item"><strong>Kategori:</strong> ${data.category}</li>
                                 </ul>
-                                <a class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
+                                <a class="btn btn-primary mt-3" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
                             </div>
                         </div>
                     </div>
@@ -189,7 +189,7 @@ $('.btn-electronics').on('click', function () {
                                     <li class="list-group-item"><strong>Harga:</strong> $${data.price}</li>
                                     <li class="list-group-item"><strong>Kategori:</strong> ${data.category}</li>
                                 </ul>
-                                <a class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
+                                <a class="btn btn-primary mt-3" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" role="button">BUY NOW</a>
                             </div>
                         </div>
                     </div>
